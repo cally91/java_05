@@ -1,0 +1,18 @@
+package com.biz.myclass;
+
+public class Nation_01 {
+
+	public void korea() {
+		System.out.println("대한민국");
+	}
+	public void use() {
+		System.out.println("미합중국");
+		
+	}
+	public void china() {
+		System.out.println("중국");
+	}
+	public void end() {
+		System.out.println("영국");
+	}
+}
